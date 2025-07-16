@@ -1,0 +1,20 @@
+<div class="dropdown m-3">
+  <button
+    class="btn btn-secondary dropdown-toggle"
+    type="button"
+    id="dropdownMenuButton"
+    data-bs-toggle="dropdown"
+    aria-expanded="false"
+  >
+    {{label}}
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <li *ngFor="let item of options">
+      <button class="cursor-pointer dropdown-item"  (click)="onChange(item)">{{item}}</button>
+    </li>
+  </ul>
+
+</div>
+
+
+

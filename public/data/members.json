@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Khalid",
+    "role": "Developer",
+    "status": "active",
+    "performence": 85
+  },
+  {
+    "id": 2,
+    "name": "Saleh",
+    "role": "Designer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 3,
+    "name": "Jood",
+    "role": "HR",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 4,
+    "name": "Ahmad",
+    "role": "Designer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 5,
+    "name": "Noor",
+    "role": "Product Manager",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 6,
+    "name": "Asmaa",
+    "role": "Designer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 8,
+    "name": "Abdullah",
+    "role": "Tester",
+    "status": "active",
+    "performence": 70
+  },
+  {
+    "id": 9,
+    "name": "Rawan",
+    "role": "Developer",
+    "status": "active",
+    "performence": 70
+  },
+  {
+    "id": 10,
+    "name": "Sami",
+    "role": "DevOps",
+    "status": "active",
+    "performence": 70
+  },
+  {
+    "id": 11,
+    "name": "Hanen",
+    "role": "Tester",
+    "status": "active",
+    "performence": 70
+  },
+  {
+    "id": 12,
+    "name": "Firas",
+    "role": "DevOps",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 13,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 14,
+    "name": "Omar",
+    "role": "Intern",
+    "status": "active",
+    "performence": 70
+  },
+  {
+    "id": 15,
+    "name": "Lama",
+    "role": "Product Manager",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  },
+  {
+    "id": 7,
+    "name": "Firas",
+    "role": "Developer",
+    "status": "inactive",
+    "performence": 70
+  }
+]
