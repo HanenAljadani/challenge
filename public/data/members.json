@@ -11,28 +11,28 @@
     "name": "Saleh",
     "role": "Designer",
     "status": "inactive",
-    "performence": 70
+    "performence": 62
   },
   {
     "id": 3,
     "name": "Jood",
     "role": "HR",
     "status": "inactive",
-    "performence": 70
+    "performence": 89
   },
   {
     "id": 4,
     "name": "Ahmad",
     "role": "Designer",
     "status": "inactive",
-    "performence": 70
+    "performence": 83
   },
   {
     "id": 5,
     "name": "Noor",
     "role": "Product Manager",
     "status": "inactive",
-    "performence": 70
+    "performence": 74
   },
   {
     "id": 6,
@@ -60,21 +60,21 @@
     "name": "Rawan",
     "role": "Developer",
     "status": "active",
-    "performence": 70
+    "performence": 77
   },
   {
     "id": 10,
     "name": "Sami",
     "role": "DevOps",
     "status": "active",
-    "performence": 70
+    "performence": 61
   },
   {
     "id": 11,
     "name": "Hanen",
     "role": "Tester",
     "status": "active",
-    "performence": 70
+    "performence": 58
   },
   {
     "id": 12,
@@ -88,62 +88,76 @@
     "name": "Firas",
     "role": "Developer",
     "status": "inactive",
-    "performence": 70
+    "performence": 90
   },
   {
     "id": 14,
     "name": "Omar",
     "role": "Intern",
     "status": "active",
-    "performence": 70
+    "performence": 53
   },
   {
     "id": 15,
     "name": "Lama",
     "role": "Product Manager",
     "status": "inactive",
-    "performence": 70
+    "performence": 80
   },
   {
-    "id": 7,
-    "name": "Firas",
+    "id": 16,
+    "name": "Sama",
     "role": "Developer",
+    "status": "active",
+    "performence": 95
+  },
+  {
+    "id": 17,
+    "name": "Fares",
+    "role": "Intern",
+    "status": "inactive",
+    "performence": 65
+  },
+  {
+    "id": 18,
+    "name": "Saad",
+    "role": "Tester",
+    "status": "active",
+    "performence": 78
+  },
+  {
+    "id": 19,
+    "name": "Noor",
+    "role": "Designer",
+    "status": "active",
+    "performence": 86
+  },
+  {
+    "id": 20,
+    "name": "Ahmad",
+    "role": "Product Manager",
     "status": "inactive",
     "performence": 70
   },
   {
-    "id": 7,
-    "name": "Firas",
-    "role": "Developer",
-    "status": "inactive",
-    "performence": 70
+    "id": 21,
+    "name": "Thamer",
+    "role": "HR",
+    "status": "active",
+    "performence": 50
   },
   {
-    "id": 7,
-    "name": "Firas",
-    "role": "Developer",
-    "status": "inactive",
-    "performence": 70
+    "id": 22,
+    "name": "Saud",
+    "role": "Product Manager",
+    "status": "active",
+    "performence": 63
   },
   {
-    "id": 7,
-    "name": "Firas",
-    "role": "Developer",
+    "id": 23,
+    "name": "Azam",
+    "role": "DevOps",
     "status": "inactive",
-    "performence": 70
-  },
-  {
-    "id": 7,
-    "name": "Firas",
-    "role": "Developer",
-    "status": "inactive",
-    "performence": 70
-  },
-  {
-    "id": 7,
-    "name": "Firas",
-    "role": "Developer",
-    "status": "inactive",
-    "performence": 70
+    "performence": 49
   }
 ]
