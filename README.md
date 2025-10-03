@@ -28,45 +28,6 @@ To execute unit tests with the [Karma](https://karma-runner.github.io) test runn
 ng test
 ```
 
-# Architecture overview
-The application follows a modular structure using Angular. The main architectural components are
-
-## Modules
-AppModule: The root module that bootstraps the application
-
-## Components
-MemberDashboardComponent: Display the members data with filtering features
-NavBarComponent: Navbar component to navigate between pages 
-LandingPageComponent: The main page
-
-Reusable Components
-DropdownMenuComponent: Dropdown menu take a label and the options
-ButtonComponent: Button take a label 
-
-Third-party Libraries:
-ngx-datatable: Used to display sortable and responsive tables.
-
-# Any assumptions made
-○ I was not given a clear specification for the data structure, so I made assumptions based on the provided context
-○ I used ngx-datatable to allow users to sort the data (ascending/descending) and to provide a more interactive and adjustable table UI
-
-# Short reflection on the most challenging part
-
-I had a challenge in testing because I didn't use Jasmine/Karma before, and I used Robot Framework (Selenium)
-But I took a quick video on YouTube to learn about it, where I can write the unit test
-
-Also. In the performance indicator, I don't know if I did it right, but I searched for a way (bootstrap solution) on the internet
-
-# Explanation of AI tool usage:
-○ Which tools were used and for what
-
-I used ChatGPT when I faced errors that I didn't know how to solve 
-
-○ What you adjusted or rejected from the AI's suggestion
-
-I had an error in the dropdown-menu component, the data couldn't be reflected in the parent, AI suggests another solution, which is more complex. So I tried to do it as it is and find the way 
-
-
 
 
 
